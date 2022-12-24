@@ -18,6 +18,10 @@ A ADVANCE RENAME BOT WITH CUSTOM CAPTION AND THUMBNAIL SUPPORT
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
+# DEPLOY TO KOYEB
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Greymattersbot/md-renamebot&branch=main&name=urlshortautofilterbot)
+
 # FEATURES 
 
 - [x] Custom caption
