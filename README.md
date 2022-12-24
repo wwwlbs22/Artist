@@ -41,6 +41,22 @@ A ADVANCE RENAME BOT WITH CUSTOM CAPTION AND THUMBNAIL SUPPORT
 * `OWNER_ID`: Username or ID of the bot owner.
 * `DATABASE_URI`: MONGODB URI. Get this value from [mongoDB](https://www.mongodb.com)
 
+# Bot Father Commands
+```
+start - Check if I'm alive or not ✅
+help - To Check Bot Commands
+rename - To rename a file or video or audio
+settings - To configure your configs 
+addcaption - To add a custom caption
+showcaption - To show your custom caption
+deletethumb - To remove your custom thumbnail 
+showthumb - To show your custom thumbnail
+ban - To ban a user 
+unban - To unban a user 
+stats - To get bot users stats
+broadcast - To broadcast messages to users
+```
+
 # SUPPORT
 
 - [UPDATE CHANNEL](https://t.me/GreyMatter_Bots)
