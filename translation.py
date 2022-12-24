@@ -44,7 +44,7 @@ class Translation(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [{}](https://t.me/{})
 ║┣⪼👦Deployer : [GreyMatter's Owner](https://t.me/GreyMatter_Owner)
-║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
+║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : Koyeb
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 ║┣⪼📚ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴀsʏɴᴄɪᴏ {} 
 ║┣⪼🗒️ᴠᴇʀsɪᴏɴ : {}
