@@ -39,5 +39,8 @@ A ADVANCE RENAME BOT WITH CUSTOM CAPTION AND THUMBNAIL SUPPORT
 
 # SUPPORT
 
-- [UPDATE CHANNEL](https://t.me/venoms)
-- [SUPPORT GROUP](https://t.me/mdbotz)
+- [UPDATE CHANNEL](https://t.me/GreyMatter_Bots)
+- [SUPPORT GROUP](https://t.me/GreyMatters_Bots_Discussion)
+
+# Credits
+- [Mdbotz](https://github.com/Mdbotz)
