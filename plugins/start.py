@@ -18,10 +18,10 @@ async def start(bot, message):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/venombotupdates'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/venombotsupport')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/GreyMatter_Bots'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/GreyMatters_Bots_Discussion')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/Mdbotz/md-renamebot')
+                InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
              ]]
    ))
                             
@@ -65,10 +65,10 @@ async def cb_handler(client: Client , query: CallbackQuery):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/Md_bOTs'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/Md_bOTs')
+               InlineKeyboardButton('📢 Update Channel', url='https://t.me/GreyMatter_Bots'),
+               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/GreyMatters_Bots_Discussion')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/hockbhmv/FileRenameBot')
+                InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
              ]]
         ))
         
@@ -99,7 +99,7 @@ async def cb_handler(client: Client , query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
             [[
-              InlineKeyboardButton('📃 Source code', url='https://github.com/Mdbotz/md-renamebot')
+              InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
             ],[
               InlineKeyboardButton('Back', callback_data = "help"),
             ]]
