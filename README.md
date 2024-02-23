@@ -59,8 +59,8 @@ broadcast - To broadcast messages to users
 
 # SUPPORT
 
-- [UPDATE CHANNEL](https://t.me/GreyMatter_Bots)
-- [SUPPORT GROUP](https://t.me/GreyMatters_Bots_Discussion)
+- [UPDATE CHANNEL](https://t.me/ALLL_ISS_WELL)
+- [SUPPORT GROUP](https://t.me/FREE_PARMOTION)
 
 # Credits
 - [Mdbotz](https://github.com/Mdbotz)
